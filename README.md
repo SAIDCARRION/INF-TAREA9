@@ -18,6 +18,7 @@ _Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo s
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/9QrSwvxG/6.png" alt="6"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Wz8K0jL7/7.png" alt="7"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/KcDC67kg/8.png" alt="8"/></a><br/><br/>
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/pXV3R9zc/a.png" alt="a"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/fy82JKm2/b.png" alt="b"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/XNLDHVmf/c.png" alt="c"/></a><br/><br/>
@@ -38,3 +39,14 @@ _Diferenciar entre los tipos de filtros presentados en la tarea, comprendiendo s
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/B6qBHFqd/r.png" alt="r"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/YSNxvRw6/s.png" alt="s"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/63YL0QqT/t.png" alt="t"/></a><br/><br/>
+4)Video
+
+https://youtu.be/e-XmThIBTIY
+
+5.Conclusiones
+
+Como conclusión de este informe se puede decir que el analisis de los circuitos RCL es muy importante para el aprendizaje de la materia ya que este nos permite tener una mejor orientación para el analisis de los circuitos que se nos presenten. Para el caso de los filtros, estos seran importantes de distinguir entre los filtros de pasabajas y los filtros de pasaltas, cuales son sus funciones y características y sobretodo sus diferencias entre sí, con la realización de los ejercicios se pudo tener clara esta idea.
+
+6.Bibliografía
+
+_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson**
